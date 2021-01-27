@@ -1,4 +1,4 @@
-<h1 align="center">Hi There 👋, I'm Priyanka Mishra</h1>
+<h1 align="center">Hi 👋, I'm Priyanka Mishra</h1>
 <h3 align="center">A Passionate Developer From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
