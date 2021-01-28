@@ -1,5 +1,5 @@
 <hr>
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">𝐇𝐞y <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
+ <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">Hey <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
  <br>
  <h1 align="center">Myself Priyanka <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
  </h1>
@@ -33,7 +33,7 @@
 
 <p align="left"> <a href="https://twitter.com/_dazzzle_" target="blank"><img src="https://img.shields.io/twitter/follow/_dazzzle_?logo=twitter&style=for-the-badge" alt="_dazzzle_" /></a> </p>
 
-<h3 align="left">Let's connect! Find me on the web.</h3>
+<h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
 <p align="left">
 <a href="https://twitter.com/_dazzzle_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dazzzle_" height="30" width="40" /></a>
