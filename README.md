@@ -1,5 +1,5 @@
 <hr>
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="45px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
+ <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="45px">   𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="40px"> 
  <br>
  <h1 align="center">Myself Priyanka <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="90px">
  </h1>
@@ -32,24 +32,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_dazzzle_" target="blank"><img src="https://img.shields.io/twitter/follow/_dazzzle_?logo=twitter&style=for-the-badge" alt="_dazzzle_" /></a> </p>
-<!--
-- 🔭 I’m currently working on **my portfolio**
-<!--
-- 🌱 I’m currently learning **web development**
-<!--
-- 👯 I’m looking to collaborate on **open source projects**
-<!--
-- 🤝 I’m looking for help with **web development projects**
-<!--
-- 📝 I regularly write articles on [Hashnode and Medium](Hashnode and Medium)
-<!--
-- 💬 Ask me about **competitive programming**
-<!--
-- 📫 How to reach me **mishrapriyanka073@gmail.com**
-<!--
-- ⚡ Fun fact **I think I am funny !**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect! Find me on the web.</h3>
+
 <p align="left">
 <a href="https://twitter.com/_dazzzle_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dazzzle_" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-mishra-0068751a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
