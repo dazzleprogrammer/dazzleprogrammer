@@ -8,9 +8,9 @@
  <p align="center">
    <em>
      This is Priyanka Mishra , a 2nd year undergraduate pursuing B.Tech from <a href="https://www.gitmgurgaon.com"> <b>Global Institute Of Technology And Management</b>,Gurgaon</a>. <br>
-     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="36px">&nbsp <br><b>still a learner</b>
-     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Rocket.gif" width="18px">and a
-     <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+     An aspiring <b>Full-Stack Web Developer  </b> <img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px">   and a <b>Competitive Programming Enthusiast, </b>&nbsp;<img src="https://camo.githubusercontent.com/cc8200e9d8619863d6bf5168914c577eba582e7b6dcbf5dc05b9f72d49a90d4a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f376a32686679655663447466322f67697068792e676966" width="36px">&nbsp <br><b>still a learner</b>
+     with the idea of <b>implementing</b> my work and growing into an <b>open source contributor </b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Rocket.gif" width="18px">and a
+     <b>developer</b> <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px">&nbsp.
    </em>
  </p>
 
@@ -19,38 +19,40 @@
  > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about Personal Stuffs:_**
 
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/wave.gif" width="30px">&nbsp;Currently learning **_Web Development_** 😉
- - <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Competitive Programming skills..._**
- - <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/headbang.gif" width="30px">&nbsp;Looking forward to work on <img alt="Python3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> projects &nbsp;!
- - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an Open - Source Contributor <img alt="GIF" src="https://github.com/Harshita248/Harshita248/blob/master/Assets/powerup.gif" width="20vw" /> ...
- - <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_** 👨‍💻!
- - <img src="https://github.com/Harshita248/Harshita248/blob/master/Assets/hmm.gif" width="30px">&nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
+ - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/gandalf_parrot.gif" width="30px">&nbsp; Working on **_Portfolio_** 🔭
+ - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/powerup.gif" width="30px">&nbsp;Looking forward to work on **Web Development projects** &nbsp;🤝
+ - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">&nbsp; Collaborating in various projects as an **Open - Source Contributor** <img alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="35vw" /> ...
+ - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science_** and **_ML_**🌱🔭
+ - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="30px"> &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
  - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **_Reading novels_** & wish to become an **Author** of my _Own Story_ ...🌐
+ - 📫 How to reach me **mishrapriyanka073@gmail.com** 💬
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/_dazzzle_" target="blank"><img src="https://img.shields.io/twitter/follow/_dazzzle_?logo=twitter&style=for-the-badge" alt="_dazzzle_" /></a> </p>
-
+<!--
 - 🔭 I’m currently working on **my portfolio**
-
+<!--
 - 🌱 I’m currently learning **web development**
-
+<!--
 - 👯 I’m looking to collaborate on **open source projects**
-
+<!--
 - 🤝 I’m looking for help with **web development projects**
-
+<!--
 - 📝 I regularly write articles on [Hashnode and Medium](Hashnode and Medium)
-
+<!--
 - 💬 Ask me about **competitive programming**
-
+<!--
 - 📫 How to reach me **mishrapriyanka073@gmail.com**
-
+<!--
 - ⚡ Fun fact **I think I am funny !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_dazzzle_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dazzzle_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/priyanka mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanka-mishra-0068751a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/dazzlllee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dazzlllee" height="30" width="40" /></a>
 <a href="https://medium.com/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/priyanka mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanka mishra" height="30" width="40" /></a>
