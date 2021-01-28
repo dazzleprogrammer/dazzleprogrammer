@@ -1,9 +1,9 @@
 <hr>
- <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">   𝐇𝐞y <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
+ <h1 align="center"><img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Hi.gif" width="50px">𝐇𝐞y <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://camo.githubusercontent.com/9ba03d053f146a029e7123cb4392c386cb6587a6ccf860c159af83aebf5c6457/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3754636474484f43786f336d65557650676a2f67697068792e676966" width="45px"> 
  <br>
  <h1 align="center">Myself Priyanka <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Developer.gif" width="80px">
  </h1>
-  <h3 align="center"><img src="https://camo.githubusercontent.com/be37cdc8f930300096c506ad4574eaae977c48fbb2705cfcb92f4eeab8282c7a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="40px"> A Passionate Developer From India <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="40px"></h3> 
+  <h3 align="center"><img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="40px"> A Passionate Developer From India <img src="https://camo.githubusercontent.com/2afb70f3e02b0982737ba5b242f200a68d8d26e00597267914279eda82b15409/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4f624e547738557a7779364b512f67697068792e676966" width="40px"></h3> 
 
  <p align="center">
    <em>
