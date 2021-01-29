@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://twitter.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__priyaankaa__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-mishra-0068751a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__priyaankaa__" height="30" width="40" /></a>
+<a href="https://instagram.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___priyaankaa___" height="30" width="40" /></a>
 <a href="https://medium.com/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/priyanka mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanka mishra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/@priyanka_073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@priyanka_073" height="30" width="40" /></a>
