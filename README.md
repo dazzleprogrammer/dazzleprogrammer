@@ -31,14 +31,14 @@
 
  <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/_dazzzle_" target="blank"><img src="https://img.shields.io/twitter/follow/_dazzzle_?logo=twitter&style=for-the-badge" alt="_dazzzle_" /></a> </p> 
+<p align="left"> <a href="https://twitter.com/__priyaankaa__" target="blank"><img src="https://img.shields.io/twitter/follow/__priyaankaa__?logo=twitter&style=for-the-badge" alt="__priyaankaa__" /></a> </p> 
 
 <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
 <p align="left">
-<a href="https://twitter.com/_dazzzle_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_dazzzle_" height="30" width="40" /></a>
+<a href="https://twitter.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__priyaankaa__" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-mishra-0068751a1/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
-<a href="https://instagram.com/dazzlllee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dazzlllee" height="30" width="40" /></a>
+<a href="https://instagram.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__priyaankaa__" height="30" width="40" /></a>
 <a href="https://medium.com/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/priyanka mishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="priyanka mishra" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/@priyanka_073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="@priyanka_073" height="30" width="40" /></a>
