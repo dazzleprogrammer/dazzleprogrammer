@@ -33,7 +33,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/__priyaankaa__" target="blank"><img src="https://img.shields.io/twitter/follow/__priyaankaa__?logo=twitter&style=for-the-badge" alt="__priyaankaa__" /></a> </p> -->
 
-<h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
+<!-- <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
 <p align="left">
 <!-- <a href="https://twitter.com/__priyaankaa__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="__priyaankaa__" height="30" width="40" /></a>
