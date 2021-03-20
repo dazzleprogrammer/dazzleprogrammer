@@ -29,7 +29,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
 
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p> 
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p>  -->
 
  <p align="left"> <a href="https://twitter.com/__priyaankaa__" target="blank"><img src="https://img.shields.io/twitter/follow/__priyaankaa__?logo=twitter&style=for-the-badge" alt="__priyaankaa__" /></a> </p>
 
