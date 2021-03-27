@@ -24,7 +24,7 @@
  - <img src="https://media.giphy.com/media/mG7xN3NU7WeUUGiKjM/giphy.gif" width="30px">Collaborating in various projects as an **Open Source Contributor** <img alt="GIF" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" width="35vw" /> 
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/happy.gif" width="30px">&nbsp; Desire to develop new possibilities in the field of **_Data Science🌱 & ML_**🔭
  - <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Medal.gif" width="20px"> &nbsp;Ask me about anything, I am happy to help, only if the ball is in my court !⚡️
- - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **Exploring**  & currently **Exploring** my **_Own Story_ ... 📝
+ - <img src="https://media.giphy.com/media/1Bek3O06EXr6YaBcLy/giphy.gif" width="30px">&nbsp;Fun-Fact: Love **Exploring**  & currently **Exploring** my **_Own Story_** ... 📝
  - 📫 How to reach me **mishrapriyanka073@gmail.com** 💬
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dazzle&label=Profile%20views&color=0e75b6&style=flat" alt="dazzle" /> </p>
 
