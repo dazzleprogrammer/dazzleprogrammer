@@ -36,7 +36,7 @@
  <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
 <p align="left">
- <a href="https://twitter.com/priyankamissra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyankamissra" height="30" width="40" /></a>
+ <a href="https://twitter.com/priyaankamishra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyaankamishra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/priyanka-mishra-programmer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyanka mishra" height="30" width="40" /></a>
 <a href="https://instagram.com/priyankamishraa_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="priyankamisraa_" height="30" width="40" /></a>
 <a href="https://medium.com/@mishrapriyanka073" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mishrapriyanka073" height="30" width="40" /></a>
