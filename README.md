@@ -31,7 +31,7 @@
 
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dazzle" alt="dazzle" /></a> </p>  -->
 
- <p align="left"> <a href="https://twitter.com/priyankamissra" target="blank"><img src="https://img.shields.io/twitter/follow/priyankamissra?logo=twitter&style=for-the-badge" alt="priyankamissra" /></a> </p>
+ <p align="left"> <a href="https://twitter.com/priyankamissra" target="blank"><img src="https://img.shields.io/twitter/follow/priyankamissra?logo=twitter&style=for-the-badge" alt="priyaankamishra" /></a> </p>
 
  <h2 align="left">Let's connect! Find me on the web <img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Handshake.gif" width="90px"></h2>
 
